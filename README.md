@@ -11,6 +11,6 @@ Game Rules:
 5. If a player finds the head of a snake he/she is sent to the tail of the snake.
 6. A player wins if his/her position is equal to 100.
 7. There are two implementations in this game when compared to the traditional game:
-	a. The players can exchange there positions based on the mutual agreement.
+	a. The players can exchange their positions based on the mutual agreement.
 	b. Before starting the game players can change snakes into ladders and ladders 	into snakes.
 
