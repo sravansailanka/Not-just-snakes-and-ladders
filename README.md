@@ -13,4 +13,5 @@ Game Rules:
 7. There are two implementations in this game when compared to the traditional game:
 	(a) The players can exchange their positions based on the mutual agreement.
 	(b) Before starting the game, players can change snakes into ladders and ladders into snakes.
+8. Game time is also displayed after every game.
 
